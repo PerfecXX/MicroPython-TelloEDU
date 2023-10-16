@@ -13,4 +13,4 @@ DJI Tello EDU drone MicroPython library based on ESP32.
 
 # Library Documentation
 
-See more : 
+See more : https://github.com/PerfecXX/MicroPython-TelloEDU/wiki
